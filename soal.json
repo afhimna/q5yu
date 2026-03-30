@@ -1,0 +1,992 @@
+[
+  {
+    "question": "Dalam سَمِيْعُ الْبَصِيْرُ وَالْمُتْكَلِّمُ, bina' dari lafadz تَكَلَّمَ adalah?",
+    "option_A": "Shohih",
+    "option_B": "Naqis Ya’i",
+    "option_C": "Lafif Maqrun",
+    "option_D": "Mudho’af",
+    "option_E": "Mahmuz fa’",
+    "answer_index": "A",
+    "explanation": "Karena fa', 'ain, dan lam fi'ilnya tidak berupa huruf 'illat, bukan hamzah, serta 'ain dan lam fi'ilnya bukan huruf yang sejenis."
+  },
+  {
+    "question": "Dalam لَهُ صِفَاتٌ سَبْعَةٌ تَنْتَظِمُ, apa status lafadz سَبْعَة pada bait ini?",
+    "option_A": "Hal‎",
+    "option_B": "Tamyiz",
+    "option_C": "Istitsna’",
+    "option_D": "Mudhof ilaih",
+    "option_E": "Na'at",
+    "answer_index": "E",
+    "explanation": "Karena lafadz سَبْعَة menjelaskan man'utnya, yaitu lafadz صِفَات."
+  },
+  {
+    "question": "Dalam لَهُ صِفَاتٌ سَبْعَةٌ تَنْتَظِمُ, Na'at tersebut termasuk na'at apa?",
+    "option_A": "مُشْتَقّ‎",
+    "option_B": "مُؤَوَّل بِالْجَامِد",
+    "option_C": "مَجَازِيّ",
+    "option_D": "مُؤَوَّل بِالْمُشْتَق",
+    "option_E": "أَصْلِيّ‎",
+    "answer_index": "B",
+    "explanation": "Karena lafadz سَبْعَة termasuk kategori isim jamid, bukan musytaq."
+  },
+  {
+    "question": "Jika berupa na'at مُؤَوَل بِالْمُشْتَق, apa ta'wilan dari lafadz tersebut yakni dari lafadz سبعة?",
+    "option_A": "سَابِعَة",
+    "option_B": "السَّبْعَة",
+    "option_C": "مَعْدُوْدَةٌ بِسَبْعَة‎",
+    "option_D": "مَنْسُوْبَة إِلَى سَبْعَة",
+    "option_E": "سُبَاعِيّ",
+    "answer_index": "B",
+    "explanation": "Seharusnya na'at berupa isim musytaq, yaitu isim yang berkonotasi sifat, jika isim berupa jamid (lawan dari musytaq) maka harus ditakwil mejadi mmusytaq."
+  },
+  {
+    "question": "Dalam فَقُدْرَةٌ إِرَادَةٌ سَمْعُ بَصَر, apa shigot dari lafadz إِرَادَة?",
+    "option_A": "اسْم فَاعِل",
+    "option_B": "مَصْدَر",
+    "option_C": "فِعْل مُضَارِع",
+    "option_D": "اسْم مَصْدَر",
+    "option_E": "ضَمِيْر مُتَّصِل‎",
+    "answer_index": "B",
+    "explanation": "Tashrifannya yaitu أَرَادَ يُرِيْدُ إِرَادَةً وَمُرَادًا فَهُوَ مُرِيْدٌ وَذٰاكَ مُرَادٌ أَرِدْ لَا تُرِدْ مُرَادٌ 2‎"
+  },
+  {
+    "question": "Salah satu faedah makna dari wazan أَفْعَلَ adalah?",
+    "option_A": "مُشَارَكَة",
+    "option_B": "قَبُوْل",
+    "option_C": "طَلَب",
+    "option_D": "تَعْدِيَة‎",
+    "option_E": "مُطَاوَعَة",
+    "answer_index": "C",
+    "explanation": "Ta'diyah adalah proses mengubah fi'il lazim menjadi muta'addi atau menambab maf'ul dari fi'il muta'addi."
+  },
+  {
+    "question": "Bentuk جَمْع مُؤَنَّث مُخَاطَبَة dari tashrifan lafadz يُرِيْدُ adalah?",
+    "option_A": "أَرَدْتَ",
+    "option_B": "مُرِیْد‎",
+    "option_C": "يُرِدْنَ‎",
+    "option_D": "أُرِيْدُ",
+    "option_E": "تُرِدْنَ",
+    "answer_index": "E",
+    "explanation": "Tashrifannya yaitu يُرِيْدُ, يُرِيْدَانِ, يُرِيْدُوْنَ, تُرِيْدُ, تُرِيْدَانِ, يُرِدْنَ, تُرِيْدُ, تُرِيْدَانِ تُرِيْدُوْنَ, تُرِيْدِيْنَ, تُرِيْدَانِ تُرِدْنَ, أُرِيْدُ, نُرِيْدُ"
+  },
+  {
+    "question": "Lafadz أَرَادَ termasuk kategori fi'il apa?",
+    "option_A": "ثُلَاثِي مَزِيْد",
+    "option_B": "ثُلَاثِيّ مُجَرَّدْ",
+    "option_C": "رُبَاعِي مُلْحَق",
+    "option_D": "سُبَاعِی مَزِیْد",
+    "option_E": "رُبَاعِي مُجَرَّد",
+    "answer_index": "A",
+    "explanation": "Tsulatsi mazid adalah fi'il yang memiliki tiga huruf asli dan disertai huruf ziyadah (tambahan)."
+  },
+  {
+    "question": "Dalam حَيَاةܦ الْعِلْمُ كَلَامٌ اسْتَمَر, apa status lafadz اسْتَمَر pada bait ini?",
+    "option_A": "Athof",
+    "option_B": "Badal",
+    "option_C": "Maf’ul bih",
+    "option_D": "Na'at‎",
+    "option_E": "Khobar‎",
+    "answer_index": "D",
+    "explanation": "Karena lafadz اسْتَمَر adalah jumlah yang jatuh setelah lafadz كَلَام yang statusnya nakiroh., jumalah atau syibh jumlah setelah isim nakiroh ditarkib menjadi na'at"
+  },
+  {
+    "question": "Jika jumlah dan fa'il dalam contoh كَلَامٌ اسْتَمَر adalah na'at, apa mahal dari jumlah tersebut?",
+    "option_A": "نَصَب",
+    "option_B": "مَبْنِيّ",
+    "option_C": "رَفَع",
+    "option_D": "جَر",
+    "option_E": "جَزْم‎",
+    "answer_index": "C",
+    "explanation": "Karena jumlah tersebut menjadi na'at dari lafadz كَلَام yang i'rabnya rofa'."
+  },
+  {
+    "question": "Jumlah اسْتَمَر beserta fa'ilnya termasuk kategori jumlah apa?",
+    "option_A": "Jumlah Ismiyah",
+    "option_B": "Syibh jumlah",
+    "option_C": "Syibh mufrod",
+    "option_D": "Jumlah mu’taridloh",
+    "option_E": "Jumlah fi'liyah",
+    "answer_index": "E",
+    "explanation": "Karena jumlah اسْتَمَر diawali oleh kalimat fi'il."
+  },
+  {
+    "question": "Di bawah ini, yang termasuk jumlah yang tidak memilik mahal i'rob adalah?",
+    "option_A": "حَالِيَّة",
+    "option_B": "مُعْتَرِضَة",
+    "option_C": "خَبَرِية",
+    "option_D": "التَابِعَة لِجُمْلَةٍ لَهَا مَحَل",
+    "option_E": "الوَاقِعَة مَفْعُولًا بِه",
+    "answer_index": "B",
+    "explanation": "Jumlah Mu'taridloh adalah suatu jumlah yang berada diantara dua hal yang berkaitan."
+  },
+  {
+    "question": "Dalam وَجَائِزٌ بِفَضْلِهِ وَعَدْلِهِ, apa asal dari lafadz َجَائِزٌ?",
+    "option_A": "جَاوِز",
+    "option_B": "جَايِز",
+    "option_C": "جَازِوْ",
+    "option_D": "جَازِي",
+    "option_E": "جَازِز",
+    "answer_index": "A",
+    "explanation": "Karena lafadz جَائِز adalah bina' ajwaf wawi (جَازَ يَجُوّزُ جَوَازًا)."
+  },
+  {
+    "question": "Dalam تَرْكٌ لِكُلِّ مُمْكِنٍ كَفِعْلِهِ, lam pada lafadz لِكُلّ berta’alluq ke mana?",
+    "option_A": "مُمْكِن",
+    "option_B": "فِعْلُه",
+    "option_C": "تَرْك",
+    "option_D": "كَائِن",
+    "option_E": "اسْتَقَر",
+    "answer_index": "C",
+    "explanation": "Jar-majrur harus berta’alluq kepada fi’il atau lafadz yang serupa dengan fi’il, dan تَرْك termasuk kategori kedua.‎"
+  },
+  {
+    "question": "Huruf jar yang memiliki makna dan ta’alluq dinamakan dengan?",
+    "option_A": "Zaid",
+    "option_B": "Syibh Zaid",
+    "option_C": "Asli",
+    "option_D": "Muttashil",
+    "option_E": "Munqothi’",
+    "answer_index": "C",
+    "explanation": "Huruf jar dibagi tiga: asli, zaid dan siybh zaid."
+  },
+  {
+    "question": "Salah satu faedah makna dari huruf jar lam adalah?",
+    "option_A": "إِلْصَاق",
+    "option_B": "لِلْمِلْكِ",
+    "option_C": "اسْتِعَانَة",
+    "option_D": "قَسَم",
+    "option_E": "تَشْبِيْه",
+    "answer_index": "B",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ فِيْ الْخُلَاصَة: وَالّلَامُ لِلْمِلْكِ وَشِبْهِهِ وَفِيْ * تَعْدِيَةٍ أَيْضًا وَتَعْلِيْلٍ قُفِيْ"
+  },
+  {
+    "question": "Dalam أَرْسَلَ الَانْبِيَا ذَوِيْ الْفَطَانَةْ, bentuk mufrod dari lafadz أَنْبِيَاء adalah?",
+    "option_A": "مَبْنِي",
+    "option_B": "نَابِي",
+    "option_C": "نُبُوَّة",
+    "option_D": "أَنْبَأ",
+    "option_E": "نَبِي",
+    "answer_index": "E",
+    "explanation": "Contoh lain adalah نَبِي, أَنْبِيَاء, وَلِي, أَوْلِيَاء, قَوِي, أَقْوِيَاء"
+  },
+  {
+    "question": "Dalam بِالصِّدْقِ وَالتَّبْلِيْغِ وَالْأَمَانَةْ, isim alat dari تَبْلِيْغ adalah?",
+    "option_A": "مِبْلَاغ",
+    "option_B": "مَبْلُوْغ",
+    "option_C": "بَالِغ",
+    "option_D": "مُبَلَّغ",
+    "option_E": "Tidak ada",
+    "answer_index": "E",
+    "explanation": "Secara kaedah shorof tidak ada wazan khusus untuk isim alat yang berlaku untuk semua fi'il mazid."
+  },
+  {
+    "question": "Dalam وَجَائِزٌ فِيْ حَقِّهِمْ مِنْ عَرَضِ, salah satu faedah dari مِنْ adalah?",
+    "option_A": "زَائِدَة",
+    "option_B": "إِلْصَاق",
+    "option_C": "قَسَم",
+    "option_D": "الْمِلْك",
+    "option_E": "اسْتِحْلَاء",
+    "answer_index": "A",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ فِيْ الْخُلَاصَة: وَزِيْدَ فِيْ نَفْيٍ وَشِبْهِهِ فَجَرْ * نَكِرَةً كَمَا لِبَاغٍ مِنْ مَفَرْ"
+  },
+  {
+    "question": "Dalam بِغَيْرِ نَقْصٍ كَخَفِيْفِ الْمَرَضِ, apa status dari lafadz خَفِيْف?",
+    "option_A": "نَكِرَة",
+    "option_B": "مَعْرِفَة",
+    "option_C": "تَعْيِيْن",
+    "option_D": "مُخْتَص",
+    "option_E": "مَبْنِي",
+    "answer_index": "A",
+    "explanation": "Idlofah lafdliyyah (ghoiry mahdloh) dimenjadikan mudlof menjadi ma'rifat."
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  },
+  {
+    "question": "",
+    "option_A": "",
+    "option_B": "",
+    "option_C": "",
+    "option_D": "",
+    "option_E": "",
+    "answer_index": "",
+    "explanation": ""
+  }
+]
