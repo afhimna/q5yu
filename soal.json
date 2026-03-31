@@ -26,7 +26,7 @@
     "option_C": "مَجَازِيّ",
     "option_D": "مُؤَوَّل بِالْمُشْتَق",
     "option_E": "أَصْلِيّ‎",
-    "answer_index": "1",
+    "answer_index": "3",
     "explanation": "Karena lafadz سَبْعَة termasuk kategori isim jamid, bukan musytaq."
   },
   {
@@ -36,7 +36,7 @@
     "option_C": "مَعْدُوْدَةٌ بِسَبْعَة‎",
     "option_D": "مَنْسُوْبَة إِلَى سَبْعَة",
     "option_E": "سُبَاعِيّ",
-    "answer_index": "1",
+    "answer_index": "2",
     "explanation": "Seharusnya na'at berupa isim musytaq, yaitu isim yang berkonotasi sifat, jika isim berupa jamid (lawan dari musytaq) maka harus ditakwil mejadi mmusytaq."
   },
   {
@@ -56,7 +56,7 @@
     "option_C": "طَلَب",
     "option_D": "تَعْدِيَة‎",
     "option_E": "مُطَاوَعَة",
-    "answer_index": "2",
+    "answer_index": "3",
     "explanation": "Ta'diyah adalah proses mengubah fi'il lazim menjadi muta'addi atau menambab maf'ul dari fi'il muta'addi."
   },
   {
@@ -87,7 +87,7 @@
     "option_D": "Na'at‎",
     "option_E": "Khobar‎",
     "answer_index": "3",
-    "explanation": "Karena lafadz اسْتَمَر adalah jumlah yang jatuh setelah lafadz كَلَام yang statusnya nakiroh., jumalah atau syibh jumlah setelah isim nakiroh ditarkib menjadi na'at"
+    "explanation": "Karena lafadz اسْتَمَر adalah jumlah yang jatuh setelah lafadz كَلَام yang statusnya nakiroh, jumlah atau syibh jumlah setelah isim nakiroh ditarkib menjadi na'at"
   },
   {
     "question": "Jika jumlah dan fa'il dalam contoh كَلَامٌ اسْتَمَر adalah na'at, apa mahal dari jumlah tersebut?",
