@@ -57,7 +57,7 @@
     "option_D": "تَعْدِيَة‎",
     "option_E": "مُطَاوَعَة",
     "answer_index": "3",
-    "explanation": "Ta'diyah adalah proses mengubah fi'il lazim menjadi muta'addi atau menambab maf'ul dari fi'il muta'addi."
+    "explanation": "Ta'diyah adalah proses mengubah fi'il lazim menjadi muta'addi atau menambah maf'ul dari fi'il muta'addi."
   },
   {
     "question": "Bentuk جَمْع مُؤَنَّث مُخَاطَبَة dari tashrifan lafadz يُرِيْدُ adalah?",
@@ -197,6 +197,6 @@
     "option_D": "مُخْتَص",
     "option_E": "مَبْنِي",
     "answer_index": "0",
-    "explanation": "Idlofah lafdliyyah (ghoiry mahdloh) dimenjadikan mudlof menjadi ma'rifat."
+    "explanation": "Idlofah lafdliyyah (ghoiry mahdloh) tidak merubah mudlof menjadi ma'rifat."
   }
 ]
